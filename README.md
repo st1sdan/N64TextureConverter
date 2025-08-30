@@ -11,7 +11,10 @@
 
 [Features](#-features) -  [Installation](#-installation) -  [Usage](#-usage) -  [N64 Formats](#-n64-texture-formats)
 
-</div>
+
+
+</div><img width="894" height="627" alt="Frame 1" src="https://github.com/user-attachments/assets/6d7bbfd6-7a1f-4fc6-80c2-447a927765df" />
+
 
 ## ✨ Features
 
@@ -50,6 +53,9 @@ python3 -m main.py
 ## 📖 Usage
 
 ### Quick Start
+
+<img width="645" height="724" alt="{9B329E94-2AF2-4AEE-B13B-BF386809D40B}" src="https://github.com/user-attachments/assets/5db0dc3f-34bf-413e-977c-7d0903a41c60" />
+
 
 1. **Add Images**: Drag \& drop files or click "Add Images"
 2. **Choose Format**: Select N64 texture format from dropdown
