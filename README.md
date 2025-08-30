@@ -43,7 +43,7 @@ pip install pillow numpy tkinterdnd2
 
 3. **Run the application:**
 ```bash
-python n64_texture_converter.py
+python3 -m main.py
 ```
 
 
@@ -95,7 +95,7 @@ Dithering: Enabled
 
 ```bash
 pip install pyinstaller
-pyinstaller --onedir --windowed --name="N64Converter" main.py
+python3 -m pyinstaller
 ```
 
 
